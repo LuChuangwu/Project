@@ -1,0 +1,11 @@
+D:\LuChuangwu\CSDCheckTool\CSDCheckTool\obj\Debug\CSDCheckTool.csprojAssemblyReference.cache
+D:\LuChuangwu\CSDCheckTool\CSDCheckTool\obj\Debug\CSDCheckTool.CheckDiffernet.resources
+D:\LuChuangwu\CSDCheckTool\CSDCheckTool\obj\Debug\CSDCheckTool.Form1.resources
+D:\LuChuangwu\CSDCheckTool\CSDCheckTool\obj\Debug\CSDCheckTool.Properties.Resources.resources
+D:\LuChuangwu\CSDCheckTool\CSDCheckTool\obj\Debug\CSDCheckTool.csproj.GenerateResource.cache
+D:\LuChuangwu\CSDCheckTool\CSDCheckTool\obj\Debug\CSDCheckTool.csproj.CoreCompileInputs.cache
+D:\LuChuangwu\CSDCheckTool\CSDCheckTool\bin\Debug\CSDCheckTool.exe.config
+D:\LuChuangwu\CSDCheckTool\CSDCheckTool\bin\Debug\CSDCheckTool.exe
+D:\LuChuangwu\CSDCheckTool\CSDCheckTool\bin\Debug\CSDCheckTool.pdb
+D:\LuChuangwu\CSDCheckTool\CSDCheckTool\obj\Debug\CSDCheckTool.exe
+D:\LuChuangwu\CSDCheckTool\CSDCheckTool\obj\Debug\CSDCheckTool.pdb
